@@ -81,18 +81,6 @@ a {
     
 }
 
-a:nth-child(n) {
-    background-color: #EFEBE9;
-}
-
-a:nth-child(2n) {
-    background-color: #D7CCC8;
-}
-
-a:nth-child(3n) {
-    background-color: #BCAAA4;
-}
-
 /* Popup style */
 .popup {
     overflow: auto;
